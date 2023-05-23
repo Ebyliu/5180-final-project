@@ -1,7 +1,6 @@
 # Day Ahead Electricity Price Prediction
-This project is the final project following the Data Science track at Flatiron School.
+This project is referred from a final project by Carter Bouley. I have explored the codes but not generated any results for my own project yet.
 
-#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
 The purpose of this project was to predict the price of electricity in the day head markets, 24 hours in advance.
